@@ -2,7 +2,7 @@
 ## A Comparative Study: LeNet-5 (1998) & AlexNet (2012) on CIFAR-10
 
 **Student Name**: Abrham Yilma  
-**Course**: Deep Learning / Advanced Computer Vision  
+**Course**: Deep Learning 
 
 ---
 
